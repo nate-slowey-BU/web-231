@@ -2,8 +2,8 @@
     Chapter 1
     Hands-On Project 1-2
 
-    Author: 
-    Date:   
+    Author: Nate Slowey 
+    Date: 8/18 
 
     Filename: project01-02.js
 */
