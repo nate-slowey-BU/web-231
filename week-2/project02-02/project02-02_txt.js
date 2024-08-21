@@ -3,8 +3,8 @@
       Project 02-02
 
       Application to test for completed form
-      Author: 
-      Date:   
+      Author: Nate Slowey
+      Date: 8/20
 
       Filename: project02-02.js
  */
