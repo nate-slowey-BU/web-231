@@ -3,8 +3,8 @@
       Project 03-01
 
       Application to calculate total order cost
-      Author: 
-      Date:   
+      Author: Nate Slowey
+      Date:   9/4/24
 
       Filename: project03-01.js
 */
