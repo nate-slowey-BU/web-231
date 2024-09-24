@@ -32,3 +32,5 @@ for(let i = 0; i < captions.length; i++) {
 }
 
 document.getElementById("gallery").innerHTML = htmlCode;
+
+	
